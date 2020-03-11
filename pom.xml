@@ -22,8 +22,6 @@
 		<project.artifactId>eureka-server</project.artifactId>
 	</properties>
 
-
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
